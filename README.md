@@ -53,3 +53,8 @@ sudo chmod -R g+rwX /var/www
 ```
 7. Check if the nginx configuration are correct using `sudo nginx -t`
 8. If everything is correct then reload the nginx configuration `sudo service nginx reload`
+
+## Resources
+- https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04
+- https://www.linode.com/docs/web-servers/nginx/install-nginx-ubuntu/
+- http://nginx.org/en/docs/http/server_names.html
