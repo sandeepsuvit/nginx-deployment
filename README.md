@@ -13,7 +13,7 @@ sudo service nginx status
 ```
 
 ## Create new configuation
-1. Copy the default configuration
+1. Create copy of the existing default configuration
 ```
 sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/website.com
 ```
